@@ -1,28 +1,5 @@
-Xin chao 
-my name HuuBang
-I'm staying Ho Chi Minh City
-I'm staying Ho Chi Minh City
-I'm staying Ho Chi Minh City
-I'm staying Ho Chi Minh City
-I'm staying Ho Chi Minh City
-<<<<<<< HEAD
+dong thu nhat: mieu ta noi dung
 
-900 Ly Thuong Kiet Tan Binh
-900 Ly Thuong Kiet Tan Binh
+dong thu hai: mieu ta dia chi va noi dung
 
-
-Xin chao 
-my name HuuBang
-I'm staying Ho Chi Minh City
-I'm staying Ho Chi Minh City
-I'm staying Ho Chi Minh City
-I'm staying Ho Chi Minh City
-I'm staying Ho Chi Minh City
-
-
-900 Ly Thuong Kiet Tan Binh
-
-my name HuuBang
-
-=======
->>>>>>> parent of 99443b8... lan4
+dong thu ba: mieu ta noi dung cong viec
