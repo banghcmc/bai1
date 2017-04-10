@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Socket.io</title>
+        <script src="/socket.io/socket.io.js"></script>
+        <script src="jquery.js"></script>
+        <script>
+            const socket = io.connect();
+            socket.on('SERVER_SEND_MESSAGE', msg => console.log(msg));
+            $(document).ready(() => {
+                $('#btn').click(() => {
+                    const msg = $('#txt').val();
+                    $('#txt').val('');
+                    socket.emit('CLIENT_SEND_A_MESSAGE', msg);
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <h1>KhoaPham Training</h1>
+        <input type="text" id="txt" placeholder="Enter you message">
+        <button id="btn">Click me</button>
+    </body>
+</html>
