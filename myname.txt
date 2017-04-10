@@ -1,5 +1,4 @@
 Xin chao 
-<<<<<<< HEAD
 my name HuuBang
 I'm staying Ho Chi Minh City
 I'm staying Ho Chi Minh City
@@ -22,6 +21,5 @@ I'm staying Ho Chi Minh City
 
 900 Ly Thuong Kiet Tan Binh
 
-=======
 my name HuuBang
->>>>>>> parent of fa32548... lan4
+
